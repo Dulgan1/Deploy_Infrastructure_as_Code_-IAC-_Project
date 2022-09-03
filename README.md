@@ -24,3 +24,4 @@ The image file shows the representative diagram of the infrastructure
 - create-stack.sh bash script file to create an aws cloudFormation stack
 
 - update-stack.sh bash script file to update created stack
+MyPro-WebAp-9P13UNXJVEUI-1476824059.us-east-1.elb.amazonaws.com
